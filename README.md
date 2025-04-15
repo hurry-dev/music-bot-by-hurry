@@ -32,16 +32,6 @@ A feature-rich Discord music bot built with Discord.js, Riffy, and Lavalink. Thi
 | `!status` | Show player status | `!status` |
 | `!help` | Show this help message | `!help` |
 
-## Screenshots
-
-### Now Playing
-![Now Playing](https://i.imgur.com/PMmebc2.png)
-
-### Queue List
-![Help Menu](https://i.imgur.com/n7uBEvU.png)
-
-### Player Status
-![Player Status](https://i.imgur.com/0JhhPo3.png)
 
 ## Prerequisites
 
